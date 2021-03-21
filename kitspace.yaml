@@ -1,0 +1,3 @@
+gerbers: hardware/epaper-breakout/gerbers/
+bom: hardware/epaper-breakout/BOM.csv
+
