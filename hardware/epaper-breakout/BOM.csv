@@ -1,4 +1,4 @@
-Description,References,Footprint,LCSC Part #,Quantity
+Description,References,Footprint,LCSC,Quantity
 4.7uF Polarized capacitor,"C1,C6",C_0603_1608Metric,C19666,2
 10uF Unpolarized capacitor,"C2,C3,C21",C_0603_1608Metric,C19702,3
 0.1uF Unpolarized capacitor,"C4,C7,C15,C16,C22,C23",C_0603_1608Metric,C14663,6
